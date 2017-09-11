@@ -16,7 +16,7 @@ Nothing special. It should work on a base OpenWRT/LEDE system.
 ### Notes
 Tested on:
 - TP-Link TL-WR1043ND 1.0 running OpenWRT Chaos Calmer
-- TP-Link Archer 2600 (AC2600) running LEDE snapshot
+- TP-Link Archer C2600 (AC2600) running LEDE snapshot
 
 ### License
 WTFPL
